@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer based in Lucknow,India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-<p align="left"> <a href="https://twitter.com/@nishant60768284" target="blank"><img src="https://img.shields.io/twitter/follow/@nishant60768284?logo=twitter&style=for-the-badge" alt="@nishant60768284" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nishant60768284" target="blank"><img src="https://img.shields.io/twitter/follow/nishant60768284?logo=twitter&style=for-the-badge" alt="@nishant60768284" /></a> </p>
 
 - 🌱 I’m currently learning **App Development**
 
