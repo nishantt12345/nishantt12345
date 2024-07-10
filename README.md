@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nishant60768284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nishant60768284" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishant-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/nishantt_yadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishantt_yadavv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishant-yadav-74531a2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-yadav" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nishantt_yadavv_?igsh=YTd2djg0OTRjdjI3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishantt_yadavv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nishant yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishant yadav" height="30" width="40" /></a>
 </p>
 
